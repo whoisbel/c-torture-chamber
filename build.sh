@@ -1,5 +1,13 @@
 #!/bin/bash
 
+# Build all C source files in the specified folder.
+#
+# Usage:
+#   ./build.sh 01_hello_world
+#
+# This will compile each .c file in 01_hello_world/ and place the resulting
+# executables into 01_hello_world/build/
+
 path=$1
 
 mkdir "$path"/build
