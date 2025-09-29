@@ -10,7 +10,7 @@
 
 path=$1
 
-mkdir "$path"/build
+mkdir -p "$path"/build
 
 for c_file in "$path"/*.c; do
     base=$(basename "$c_file" .c)
