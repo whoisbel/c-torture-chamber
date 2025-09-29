@@ -9,7 +9,7 @@ Everything is marked so I know what I have learned and what’s left to tackle.
 
 ### Folder Roadmap (TODO/DONE)
 
-- `01_hello_world/` - TODO
+- `01_hello_world/` - DONE
 - `02_basics/` - TODO
 - `03_control_flow/` - TODO
 - `04_functions/` - TODO
