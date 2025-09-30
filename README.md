@@ -11,7 +11,7 @@ Everything is marked so I know what I have learned and what’s left to tackle.
 
 - `01_hello_world/` - DONE
 - `02_basics/` - DONE
-- `03_control_flow/` - TODO
+- `03_control_flow/` - DONE
 - `04_functions/` - TODO
 - `05_pointers/` - TODO
 - `06_arrays/` - TODO
