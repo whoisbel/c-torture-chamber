@@ -13,7 +13,7 @@ Everything is marked so I know what I have learned and what’s left to tackle.
 - `02_basics/` - DONE
 - `03_control_flow/` - DONE
 - `04_functions/` - DONE
-- `05_pointers/` - TODO
+- `05_pointers/` - DONE
 - `06_arrays/` - TODO
 - `07_structs/` - TODO
 - `08_memory/` - TODO
