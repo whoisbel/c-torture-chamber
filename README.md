@@ -14,7 +14,7 @@ Everything is marked so I know what I have learned and what’s left to tackle.
 - `03_control_flow/` - DONE
 - `04_functions/` - DONE
 - `05_pointers/` - DONE
-- `06_arrays/` - TODO
+- `06_arrays/` - DONE
 - `07_structs/` - TODO
 - `08_memory/` - TODO
 - `09_dynamic_memory/` - TODO
