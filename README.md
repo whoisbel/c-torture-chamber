@@ -16,7 +16,7 @@ Everything is marked so I know what I have learned and what’s left to tackle.
 - `05_pointers/` - DONE
 - `06_arrays/` - DONE
 - `07_structs/` - DONE
-- `08_memory/` - TODO
+- `08_memory/` - DONE
 - `09_dynamic_memory/` - TODO
 - `10_file_io/` - TODO
 - `11_data_structures/` - TODO
