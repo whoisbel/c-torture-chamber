@@ -17,7 +17,7 @@ Everything is marked so I know what I have learned and what’s left to tackle.
 - `06_arrays/` - DONE
 - `07_structs/` - DONE
 - `08_memory/` - DONE
-- `09_dynamic_memory/` - TODO
+- `09_dynamic_memory/` - DONE
 - `10_file_io/` - TODO
 - `11_data_structures/` - TODO
 - `12_sorting_searching/` - TODO
