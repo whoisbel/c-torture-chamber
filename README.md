@@ -21,5 +21,5 @@ Everything is marked so I know what I have learned and what’s left to tackle.
 - `10_file_io/` - DONE
 - `11_data_structures/` - DONE
 - `12_sorting_searching/` - DONE
-- `13_bitwise/` - TODO
+- `13_bitwise/` - DONE
 - `14_projects/` - TODO
