@@ -18,7 +18,7 @@ Everything is marked so I know what I have learned and what’s left to tackle.
 - `07_structs/` - DONE
 - `08_memory/` - DONE
 - `09_dynamic_memory/` - DONE
-- `10_file_io/` - TODO
+- `10_file_io/` - DONE
 - `11_data_structures/` - TODO
 - `12_sorting_searching/` - TODO
 - `13_bitwise/` - TODO
